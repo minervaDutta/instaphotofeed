@@ -8,6 +8,7 @@ https://github.com/minervaDutta/instaphotofeed
 * [Hiding API keys](https://medium.com/@oreillyalan88/how-to-hide-api-keys-from-github-7a14d1bf80c)
 * Fun with Pixabay APIs using postman
 * This template for a simple python server
+* Talking to other JavaScript modules
 
 
 ```sh
