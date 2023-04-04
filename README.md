@@ -4,6 +4,7 @@ https://github.com/minervaDutta/instaphotofeed
 * [IIFE functions](https://flaviocopes.com/javascript-iife)
 * [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 * Future Scope, to the `index.html` add form input that can change the API call
+* Font Awesome with Bootstrap
 
 
 ```sh
