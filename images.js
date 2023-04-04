@@ -1,6 +1,9 @@
+import { config } from "./config.js";
 (()=>{
-
-    fetch("https://pixabay.com/api/?key=12063395-0b9e4926e63377c9059dd41ad&image_type=illustration&editors_choice=true&colors=white",{
+    var mykey = config.MY_KEY;
+    var color = 'purple';
+    var url = "https://pixabay.com/api/?key="+mykey+"&image_type=illustration&editors_choice=true&colors="+color
+    fetch(url,{
         method:"GET"
     }).then(res=>res.json())
     .then(image=>{
