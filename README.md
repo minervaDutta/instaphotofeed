@@ -5,6 +5,9 @@ https://github.com/minervaDutta/instaphotofeed
 * [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 * Future Scope, to the `index.html` add form input that can change the API call
 * Font Awesome with Bootstrap
+* [Hiding API keys](https://medium.com/@oreillyalan88/how-to-hide-api-keys-from-github-7a14d1bf80c)
+* Fun with Pixabay APIs using postman
+* This template for a simple python server
 
 
 ```sh
