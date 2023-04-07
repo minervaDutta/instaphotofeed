@@ -2,7 +2,7 @@
 https://github.com/minervaDutta/instaphotofeed
 
 * [IIFE functions](https://flaviocopes.com/javascript-iife)
-* [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+* [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/) and adding it to a file
 * Future Scope, to the `index.html` add form input that can change the API call
 * Font Awesome with Bootstrap
 * [Hiding API keys](https://medium.com/@oreillyalan88/how-to-hide-api-keys-from-github-7a14d1bf80c)
